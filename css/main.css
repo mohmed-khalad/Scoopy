@@ -47,3 +47,263 @@
 }
 
 
+.section-One .row a{
+    color: rgb(254, 145, 90);
+    Text-decoration:none;
+}   
+.section-One .row span{
+    font-size: 15px;
+    padding: 10px;    
+}
+.section-One {
+background-color: rgb(254, 245, 240);
+height: 565px;
+padding-top: 150px;
+}
+.section-One .row h2{    
+    font-size: 60px;
+    margin-top: 150px;
+
+}
+.section-One .row a{
+    color: rgb(254, 145, 90);
+    Text-decoration:none;
+}   
+.section-One .row span{
+    font-size: 15px;
+    padding: 10px;    
+}
+.section-One .container .row .col-md-6{
+text-align: center;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+}
+.section-One .container .row .col-md-6 .inner-banner-vec{
+    position: absolute;
+    top:10px;
+    left: -15;
+    z-index: 99;
+}
+.section-One .container .row .col-md-6 .inner-banner-img{
+    position: absolute;
+    z-index: 999;
+    left: 60;
+    top: 0;
+}
+.section-Two{
+background-color:rgb(251, 251, 251) ;
+height: 1000px;
+
+}
+.section-Two .data{
+background-color: rgb(255, 255, 255);
+height: 800px;
+width: 40%;
+box-shadow: 1px 1px 35px  #00000010;
+
+}
+.section-Two .data h2{
+text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif;
+padding-top: 50px;
+font-size: 37px;
+}
+.section-Two .data h5{
+text-align: center;
+}
+.section-Two .data h5 a{
+color: rgb(254, 145, 90);
+text-decoration: none;
+
+
+}
+.section-Two .data form .labelEmail ,.labelPassword{
+padding-top: 50px;
+font-size: 15px;
+padding-left: 35px;
+}
+.section-Two .data form .inputEmail ,.inputPassword{
+width: 85%;
+margin-left:40px;
+font-size: 15px;
+padding: 15px;
+padding-top: 13px;
+border: 1px solid rgb(247, 242, 242) ;
+border-radius: 7px;
+margin-top: 15px;
+outline: none;
+}
+.section-Two .data .inputCheckbox{
+margin-top: 20px;
+margin-left: 40px;
+width: 350px;
+} 
+.section-Two .data .inputCheckbox h6 ,h5{
+font-size: 14px;
+}
+.section-Two .data .inputCheckbox h5 .Forgotten-Password{
+position: relative;
+left: 110;
+font-size:16px;
+color: rgb(254, 145, 90);
+}
+.section-Two .data .btn-signIn{
+width: 85%;
+margin-left:40px;
+background: linear-gradient(90deg,#f86ca693,#ff801885);
+margin-top: 25px;
+padding: 12px;
+border: 0;
+}
+.section-Two .data .container-fluid .row .col-md-12 h6{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}  
+.section-Two .data .container-fluid .row .col-md-6 .google{
+font-size: 11px;
+width: 100%;
+border: 0;
+padding: 13px;
+background-color:#ea4335;
+color: #fff;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 5px;
+text-decoration: none;
+margin-left: 33px;
+}
+.section-Two .data .container-fluid .row .col-md-6 .facebook{
+font-size: 11px;
+width: 100%;
+border: 0;
+padding: 13px;
+
+background-color:rgb(66, 103, 178);
+    color: #fff;
+text-decoration: none;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 5px;
+}
+.section-Two .data p{
+width: 88%;
+text-align: center;
+margin: auto;
+font-size: 15px;
+padding-left: 20px;
+margin-top: 25px;
+padding: 10px;
+}
+.section-Two .data p a{
+padding-left: 8px;
+color:#ea4335;
+text-decoration: none;
+}
+.section-Two .data .container-fluid{
+border: 1px solid rgba(160, 156, 156, 0.199) ;
+margin-top: 30px;
+height: 130px;
+width: 85%;
+}
+.section-Three{
+background-color: rgb(254, 241, 233);
+height: 500px;
+}
+.section-Three .container .row .col-md-3 .phone .img-phone .phone-icon{
+padding-top: 30px;
+}
+.section-Three .container .row .col-md-3 .phone{
+vertical-align: top;
+margin-bottom:25px ;
+height: 70px;
+}
+.section-Three .container .row .col-md-3 .phone .img-phone {
+height: 70px;
+display: inline-block;
+vertical-align: top;
+}
+.section-Three .container .row .col-md-3 .phone .mobile-number {
+display: inline-block;
+margin-top: 15px;
+margin-left: 2px;
+}
+.section-Three .container .row .col-md-3 .envelope .img-envelope .envelope-icon{
+padding-top: 30px;
+}
+.section-Three .container .row .col-md-3 .envelope{
+vertical-align: top;
+margin-bottom:25px ;
+height: 70px;
+}
+.section-Three .container .row .col-md-3 .envelope .img-envelope{
+height: 70px;
+display: inline-block;
+vertical-align: top;
+}
+.section-Three .container .row .col-md-3 .envelope .message{
+display: inline-block;
+margin-top: 15px;
+margin-left: 2px;
+}
+.section-Three .container .row .col-md-3 .location .img-location .location-icon{
+padding-top: 30px;
+}
+.section-Three .container .row .col-md-3 .location{
+vertical-align: top;
+margin-bottom:25px ;
+height: 70px;
+}
+.section-Three .container .row .col-md-3 .location .img-location{
+height: 70px;
+display: inline-block;
+vertical-align: top;
+}
+.section-Three .container .row .col-md-3 .location .map{
+display: inline-block;
+margin-top: 15px;
+margin-left: 2px;
+}
+.section-Three .container .row .col-md-6{
+display: flex;
+flex-wrap: wrap;
+}
+.section-Three .container .row .col-md-6 .col-contents-two{
+display: flex;
+flex-wrap: wrap;
+}
+
+.section-Three .container .row .col-md-6 .col-contents-two .btn-Book-Now{
+
+        margin: auto;
+        padding: 10px;
+        padding-left: 40px;
+        padding-right: 40px;
+        border: 0;
+        border-radius: 30px;
+        background: linear-gradient(90deg,#f86ca6,#ff8018);    
+        margin-top: 20px;
+}
+.section-Three .container .row .col-md-6 .col-contents-two h1,h2{
+    width: 100%;
+    margin: auto;
+}
+.section-Three .container .row .col-md-6 .col-contents-two .btn-Book-Now:hover{
+    
+    background-color: #ea4335 !important;
+    color: #fff;
+}
+.section-Three .container .row .col-md-3 .col-contents-three h6{
+   padding-top: 18px;
+}
+.section-Three .container .row .col-md-3 .col-contents-three h4{
+    color: #F86D98;
+}
+
+
+
+
+
+
+
