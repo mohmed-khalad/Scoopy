@@ -1,0 +1,49 @@
+.navbar{
+    background-color: #ffa2c0;
+    opacity: 0.8;
+}
+.navbar .nav-SignUp ,.nav-logIn{
+    color: #fff;
+    font-size: 20px;
+}
+.nav-logIn:hover{
+    color: #f86ca6;
+}
+.nav-SignUp:hover{
+    color: #f86ca6;
+} 
+.logIn{
+    display: none;
+}
+.Scooby .section-One {
+    background-color: rgb(255, 219, 219);
+    height: 589px;
+    padding-top: 125px;
+
+}
+.Scooby .section-One .container .row h2{    
+        font-size: 60px;
+        margin-top: 150px;
+        color: #F86D98;
+
+}
+.Scooby .section-One .container .row .col-md-6 {
+    text-align: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}  
+.Scooby .section-One .container .row .col-md-6 .inner-banner-vec{
+    position: absolute;
+    top:10px;
+    left: -15;
+    z-index: 99;
+}
+.Scooby .section-One .container .row .col-md-6 .inner-banner-img{
+    position: absolute;
+    z-index: 999;
+    left: 60;
+    top: 0;
+}
+
+
