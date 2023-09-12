@@ -1,0 +1,9 @@
+$(".nav-logIn").click(function(){
+    {
+      $(".Scooby").css({"display":"none"})
+      $(".logIn").css({"display":"contents"})
+      $(".nav-logIn").css({"color":"#f86ca6"})
+      $(".SignUp").css({"color":"#fff"})
+      $(".Sign-Up").css({"display":"none"})
+    }
+    })
